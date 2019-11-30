@@ -1,0 +1,15 @@
+d576deb201430e263480e55e31618ea5 *DESCRIPTION
+df8072912127d9ca290e7edc468e9224 *LICENCE
+eb9b27bc5ce05d6be24793455976dbc1 *NAMESPACE
+fe7140280640860721f46505be6a8165 *NEWS.md
+33ea91b9a909f3a2dcc1ef862f24f3f2 *R/read.R
+dfa51174d286c03d3a80f5cee8988565 *R/write.R
+990f3dd5fe3d51c32ce060c1142f0fea *README.md
+7bb3f07a65a3b8c9650b3b144081f622 *man/raw2dt.Rd
+761c66aa803b945d34b2358a0d4cadbe *man/raw2gdx.Rd
+82cb2655f9311ecf3f2eeafed9fcd4c0 *man/readgdx.Rd
+e5e81dd2c37063b7b8702f7f75935a91 *man/writegdx.Rd
+0579683a060e46fc599f438a898e1a2f *man/writegdx.parameter.Rd
+1a52ada9261daf2ee0f5c4fd7fe8e3bc *man/writegdx.variable.Rd
+ef70c660f50319ff7fe4fde5bfd85f2a *tests/testthat.R
+7d2e0c0c7fcd888029e556c0e3eeae68 *tests/testthat/test-read.R
